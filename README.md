@@ -93,7 +93,7 @@ Launching your[ food delivery app](https://sangvish.com/ubereats-clone/) using a
 
 [Sangvish](https://sangvish.com/) provides a comprehensive UberEats clone script that allows entrepreneurs to launch their own food delivery business swiftly and effectively. Developed with advanced technology and powerful features, the clone script provides all the tools and functions required to start a successful food delivery app.So, why wait? Begin your path toward food conquest today! 
 
-See our **LIVE DE<MO** and start your food delivery business now- https://sangvish.com/ubereats-clone/
+See our **LIVE DEMO** and start your food delivery business now- https://sangvish.com/ubereats-clone/
 
 **Book a Free Consultation via,**
 
