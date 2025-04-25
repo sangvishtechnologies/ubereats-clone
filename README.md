@@ -2,6 +2,20 @@
 
 <h1 align="center">Launch Your Food Delivery App With UberEats Clone Script</h1>
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://twitter.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/twitter.png" alt="sangvishtech" /></a>
+<a href="https://fb.com/sangvishtechnologies" target="blank"><img align="center" 
+src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/facebook.png" alt="sangvishtechnologies" /></a>
+<a href="https://www.linkedin.com/company/sangvish-technologies/" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/linkedin.png" alt="sangvish" /></a>
+<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/youtube.png" alt="sangvish" /></a>
+<a href="https://github.com/sangvishtechnologies" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/github.png" alt="sangvishtechnologies" /></a>
+<a href="https://instagram.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/instagram.png" alt="sangvishtech" /></a>
+
+</h2> 
+
+
 Food delivery applications are becoming an essential part of our fast-paced lives. Because of the comfort they provide, individuals now prefer to order meals online instead of cooking or dining out. If you're thinking about entering the profitable food delivery marketplace, developing your app from scratch may seem challenging. Nevertheless, there is a workaround: using[ UberEats clone](https://sangvish.com/ubereats-clone/).
 
 # What exactly is an UberEats clone script?
