@@ -18,7 +18,7 @@ src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/faceb
 
 Food delivery applications are becoming an essential part of our fast-paced lives. Because of the comfort they provide, individuals now prefer to order meals online instead of cooking or dining out. If you're thinking about entering the profitable food delivery marketplace, developing your app from scratch may seem challenging. Nevertheless, there is a workaround: using[ UberEats clone](https://sangvish.com/ubereats-clone/).
 
-# What exactly is an UberEats clone script?
+## What exactly is an UberEats clone script?
 An[ UberEats clone script](https://sangvish.com/ubereats-clone/) is a pre-built solution that duplicates the features and functionality of the popular food delivery app UberEats. It allows businesses to establish their own food delivery platform quickly and affordably without requiring considerable development work. By utilizing a clone script, you may capitalize on UberEats's success and customize it according to your business requirements.
 
 ## ✨ Key Features of Our UberEats Clone App
