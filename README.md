@@ -20,6 +20,151 @@ Food delivery applications are becoming an essential part of our fast-paced live
 
 # What exactly is an UberEats clone script?
 An[ UberEats clone script](https://sangvish.com/ubereats-clone/) is a pre-built solution that duplicates the features and functionality of the popular food delivery app UberEats. It allows businesses to establish their own food delivery platform quickly and affordably without requiring considerable development work. By utilizing a clone script, you may capitalize on UberEats's success and customize it according to your business requirements.
+
+## ✨ Key Features of Our UberEats Clone App
+
+### 🚀 Customer-Centric Features
+
+**🔍 Smart Search & Filters** - Users can easily discover restaurants and dishes using smart filters and keyword-based search to find meals that match their cravings.
+
+**🛒 Cart Management** - Customers can seamlessly manage their cart—adding, removing, or reordering items without hassle.
+
+**📜 Order Records** - Access previous orders in one tap! Users can view history and quickly reorder favorite dishes.
+
+**✅ Smooth Checkout Process** - Enjoy a quick and secure checkout flow after selecting meals, ensuring a user-friendly payment experience.
+
+**📍 Real-Time Order Tracking** - Follow your meal from the kitchen to your door with integrated live location tracking.
+
+**🏆 Top-Rated Eateries** - Explore trending and top-rated restaurants selected for exceptional food and service.
+
+**🆕 Recently Added Menus** - Stay updated with new dishes and menu additions, complete with ratings and restaurant info.
+
+### 🛵 Driver/Delivery Partner Features
+
+**🗂️ Document Submission** - Delivery partners can upload identity proofs, licenses, and required documents directly through the app.
+
+**📲 Live Order Alerts** - Instant notifications for incoming deliveries with accept/decline options based on availability.
+
+**🧭 Navigation with Directions** - After accepting a delivery, drivers get live GPS routes from the restaurant to the customer.
+
+**📦 Streamlined Deliveries** - Optimize routes and deliver faster with accurate navigation and real-time status updates.
+
+**📑 Delivery History Access** - Keep a log of completed orders, including delivery locations, timings, and payout details.
+
+**💰 Earnings Overview** - Drivers can track daily/weekly income, transaction history, and wallet balances with ease.
+
+### 🍽️ Restaurant Panel Features
+
+**📦 Live Order Management** - Restaurants can monitor and handle multiple orders in real time for timely preparation.
+
+**📄 Business Credentials Upload** - Upload licenses and identity documents for admin approval to start receiving orders.
+
+**🎬 Daily Stories & Updates** - Share menu specials or promotions using interactive story features to boost visibility.
+
+**🏪 Easy Restaurant Setup** - Add essential details such as name, location, menus, and hours to get started quickly.
+
+**📋 Flexible Menu Controls** - Add, remove, or update food items on the menu using an intuitive backend dashboard.
+
+**🍽️ Table Booking Option** - Let customers reserve dine-in tables via the app for a complete dining experience.
+
+### 🛠️ Admin Dashboard Features
+
+**🎨 Custom Branding & Layouts** - Control the look and feel of your platform with design and branding customization options.
+
+**⚙️ Access Control & Roles** - Assign roles and set permissions for restaurant owners, delivery staff, and customers.
+
+**👥 User Management** - View and manage profiles across all users, including restaurants and delivery agents.
+
+**🍱 Menu Category Settings** - Create and manage food categories to organize meals and enhance user browsing.
+
+**📦 Order Supervision** - Monitor all orders placed across the platform from one centralized interface.
+
+**💳 Payment Gateway Integration** - Enable multiple payment options, manage transactions, and review payment records smoothly.
+
+## 🍽️ Essential Built-In Features of UberEats Clone Script
+Enjoy a rock-solid food delivery experience with these core functionalities, and features:
+
+* 💼 Integrated Wallet System
+
+* 🌙 Dark Mode Option
+
+* 🔐 Secure Login & Signup
+
+* 🔔 Instant Push Alerts
+
+* 👤 Complete Profile Management
+
+* 🌍 Multi-Language Interface
+
+* ⏱️ Online/Offline Availability Toggle
+
+* 🎁 Promo Codes & Discounts
+
+* 💳 Multiple Payment Options
+
+* 📍 GPS & Real-Time Location Tracking
+
+* ⭐ User Ratings & Feedback System
+
+* ⚙️ Profile Settings Customization
+
+* 🧾 Food Item Management
+
+* 🧑‍🍳 Order Tracking & History Logs
+
+* 💬 Built-In Messaging Between Users and Drivers
+
+## 🚀 Bonus Add-On Modules
+Expand your platform with these value-added free features:
+
+* 💡 Customer Subscription Models
+
+* 📲 QR-Based Scanning for Orders & Menus
+
+* 🧭 Step-by-Step Onboarding Flow
+
+* 🏪 Restaurant Selection Flexibility
+
+* 🔁 RTL Language Compatibility
+
+* 🧾 Auto Invoice Generation
+
+* 🎉 Promo Banners & Digital Gift Cards
+
+* 📸 Visual Story Posts for Restaurants
+
+* 🍽️ Dine-In Feature Control (Enable/Disable)
+
+* 💰 Customer Savings Tracker
+
+* 🗺️ Live Map View for Orders
+
+* 🎁 Tipping Feature for Delivery Personnel
+
+
+## 📲 Restaurant POS System
+
+**Smart & Streamlined Order Handling**
+
+ Our [UberEats Clone app](https://sangvish.com/ubereats-clone/) comes equipped with a powerful POS system designed for Android, iOS, and tablet devices. It simplifies restaurant order handling, reduces delays, and allows restaurants to manage multiple orders simultaneously, ensuring fast, accurate service and customer satisfaction.
+
+## 💰 Monetization Opportunities
+
+Unlock High-Earning Potential with Multiple Revenue Channels
+
+Boost your food delivery platform’s profitability through various built-in revenue streams, including:
+
+* 🧾 Commission on Orders
+
+* 💸 Service Charges
+
+* 📦 Subscription Models
+
+* 📢 Sponsored Listings & Promotions
+
+* 🎁 Referral & Loyalty Programs
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/sangvishtechnologies/ubereats-clone/blob/main/images/ubereats-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## Benefits of Utilizing an UberEats Clone Script
 * **Quick Deployment:**
 
@@ -39,8 +184,6 @@ Scalability is an important consideration as your organization expands. The[ Ube
 * **Brand Recognition:** 
 
 Using a platform comparable to UberEats can help you attract clients who are already comfortable with the UI and functionality. This can provide new food delivery services with a competitive advantage in a highly competitive industry.
-
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/sangvishtechnologies/ubereats-clone/blob/main/images/ubereats-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 
 ## How UberEats Clone App Works?
@@ -82,25 +225,9 @@ Payment settlement between the delivery driver, the restaurant, and the platform
 
 Users may contact customer service via the app if they have any concerns or questions about their order.
 This is a simplified summary, and the real ability may vary according to the specific features used in the UberEats clone app.
-## Key Features of UberEats Clone Script
-When choosing an[ UberEats clone script](https://sangvish.com/ubereats-clone/), it's important to verify that it includes these vital features.
-* **User-friendly interfaces:**
 
-Customers, restaurants, and delivery person require simple interfaces to ensure an excellent user experience.
-* **Real-time Tracking:**
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/sangvishtechnologies/ubereats-clone/blob/main/images/ubereats-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
-Real-time order and delivery tracking improves transparency and increases trust between users.
-* **Multiple payment gateways:**
-
-Integrating different payment options allows users to make smooth and secure transactions.
-* **Order Management System:**
-
-A good order management system simplifies the procedure for restaurants and assures timely deliveries.
-* **Review and Ratings:**
-
-Incorporating a feedback mechanism allows customers to share their experiences, which helps to enhance service quality.
-
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“ubereatsclone.png" src="https://github.com/sangvishtechnologies/ubereats-clone/blob/main/images/ubereats-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 ### Conclusion:
 Launching your[ food delivery app](https://sangvish.com/ubereats-clone/) using an UberEats clone script has several benefits, including faster development, cost savings, and scalability. By using the strength of an established strategy, you can confidently join the market and carve out a position in the thriving food delivery marketplace. With the correct clone script and an effective strategy, you can achieve success.
